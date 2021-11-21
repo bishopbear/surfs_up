@@ -23,4 +23,4 @@ The statistics show that the main differences are that it tends to be a little c
 - The std dev. is slightly higher in the winter than summer.
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
-Now that we know the tempurate will not, by istelf, inhibit the shop from being succesful we would also recommend a similar analysis for 
+Now that we know the tempurate will not, by istelf, inhibit the shop from being succesful we would also recommend a similar analysis for rainy days and cloudy days.
